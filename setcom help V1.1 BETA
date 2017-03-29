@@ -1,0 +1,21 @@
+```ini
+[ setcom help ]
+
+E.g: !setcom add (command name) (list everyone;admin;serverowner) (message)
+
+E.g: !setcom remove (command name)
+
+[ variables ]
+
+{name} (mentions the command users name)
+
+{server} (sends the server name)
+
+{id} (shows the command users id)
+
+{+} (plus numbers together) (made with .py)
+
+{-} (minus numbers) (made with .py)
+
+{x} (times numbers) (made with .py)
+```
