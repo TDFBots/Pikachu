@@ -1,0 +1,9 @@
+```ini
+[ Clean help ]
+
+E.g: !clean 1-10
+
+[ Warning ]
+can only clean 10 messages or 
+the console will crash!
+```
