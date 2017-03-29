@@ -5,5 +5,5 @@ unload (disable a cog)
 
 reload (turn on a cog or restart a cog)
 
-list   (list Of cogs)
+list   (list of cogs)
 ```
