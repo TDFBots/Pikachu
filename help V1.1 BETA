@@ -1,0 +1,61 @@
+```ini
+[ help all ]
+
+prefix : !
+
+[ Bot Developers ]
+
+!reboot (reboot the bot)
+
+!files (see all bot files)
+
+!fs   (checks how big a file size is)
+
+!formatedit (edits help format)
+
+!sudo  (sudo a command to the bot)
+
+!avatar (change this bots avatar)
+
+[ Server Admin ]
+
+!bump  (bumps the server and puts the bump in TDF Bots)
+
+!clean  (clean 1-10 messages)
+
+[ Everyone ]
+
+!help (shows This)
+
+!play  (play music) 
+
+!stop  (stop the music)
+
+!skip  (skip a song)
+
+!ping  (shows ping)
+
+!mping (shows how fast the music is going)
+
+!np  (shows now playing)
+
+!summon (summon this bot into a voice channel)
+
+!disconnect (disconnect this bot from a voice channel)
+
+!poll (starts a poll)
+
+!id  (get an id)
+
+!fun (fun command)
+
+!ver (see the bots version)
+
+[ Copyright infomation ]  
+
+©Copyright TDF Bots 2017
+if you copy name or any code
+from this bot you will get
+punnished!
+```
+
